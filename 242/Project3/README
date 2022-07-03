@@ -1,0 +1,7 @@
+I got the board to draw for each player however it still doesnt show both of the players moves
+
+It stops printing the response after the first move
+
+I am able to print the board, the stats, and whose turn it is however it just prints out the screens turn.
+
+

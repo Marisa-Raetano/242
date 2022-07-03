@@ -1,0 +1,7 @@
+to run you ./server host
+then type what you would like in the server
+to connect:
+links http://vonneumann.cs.longwood.edu:9000/index.html
+
+
+in telnet localhost 8080 you type in "hello" then type in another word you wish to send using quotations
